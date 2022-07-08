@@ -1,6 +1,6 @@
 name: regex_text_style
 description: Apply TextStyles based on Regex match.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/glebosotov/flutter_regex_text_style
 
 environment:
