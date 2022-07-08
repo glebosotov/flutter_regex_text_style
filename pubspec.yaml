@@ -1,0 +1,19 @@
+name: regex_text_style
+description: Apply TextStyles based on Regex match.
+version: 0.0.1
+homepage:
+
+environment:
+  sdk: ">=2.17.5 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
