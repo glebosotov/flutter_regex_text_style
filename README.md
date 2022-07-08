@@ -11,7 +11,7 @@ RegexTextStyle(
      style: const TextStyle()
 )
 ```
-![example](images/screenshot1.png)
+![example](https://github.com/glebosotov/flutter_regex_text_style/blob/main/images/screenshot1.png)
 
 
 ## Getting started
